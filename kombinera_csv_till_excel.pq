@@ -19,14 +19,14 @@
 
 
 //			a) byt sökvägarna på raderna som börjar med Source0 = och Source1 =, så att Power Query hittar de nedladdade rapporterna från steg 1.
-//				Tips: Shifttangent+högerklick > Kopiera som sökväg kopierar hela filens sökväg inkl. citationstecken.
+//				Tips: Shifttangent+högerklick > Kopiera som sökväg kopierar hela filens sökväg med citationstecken.
 
 //			b) välj ut vilka kolumner från filerna som rapporten ska visa. Kolumnerna måste ha unika namn, heter de lika så ändra detta i ena csv-filens första rad i Anteckningar.
 
 //			c) bestäm i vilken ordning kolumnerna ska visas.
 
 //			d) kopiera den färdiga frågan och spara i en textfil till framtiden.
-//				Tips: Hela det här dokumentet är kommenterat och går att spara som en Power Query-fråga.
+//				Tips: Hela det här dokumentet är kommenterat och går att spara i en Power Query-fråga.
 
 
 
