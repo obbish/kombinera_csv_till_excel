@@ -12,7 +12,7 @@
 //		b) välj ut vilka kolumner från filerna som rapporten ska visa. Kolumnerna måste ha unika namn, heter de lika så ändra detta i ena csv-filens första rad i Anteckningar.
 //		c) bestäm i vilken ordning kolumnerna ska visas.
 //		d) kopiera den färdiga frågan och spara i en textfil till framtiden.
-//			Tips: Hela det här dokumentet är kommenterat och går att spara i en Power Query-fråga.
+//			Tips: Hela det här dokumentet är kommenterat och går således även att spara direkt i en Power Query-fråga.
 //
 // Steg 4. Tryck Klart, Stäng och läs in.
 //
